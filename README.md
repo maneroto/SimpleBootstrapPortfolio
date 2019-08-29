@@ -1,5 +1,5 @@
 # Simple Bootstrap Portfolio
-Portfolio template created with Bootstrap 4, I created it to practive Boostrap 4 skills, 
+Portfolio template created with Bootstrap 4, I created it to practice some of my Boostrap 4 skills, 
 you can use it however you want and for any purpose.
 
 ## Contributing
